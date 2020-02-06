@@ -68,7 +68,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-md-8"><img class="img-fluid" src="images/scacchi.png" alt=""></div>
+						<div class="col-md-7"><img class="img-fluid" src="images/bambino2.png" alt=""></div>
 						<div class="col-md-4">
 					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica agenzia di marketing specializzata nel mondo degli operatori logistici e degli spedizionieri. Parliamo la tua stessa lingua e possiamo così contribuire a far crescere la tua voce. <br></br>  
 					Il servizio è garantito da Nova Systems, società leader nel settore ICT.  
