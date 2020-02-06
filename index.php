@@ -302,7 +302,6 @@ MkT Communication: Marketing Made Simple</p>
 						<div class="col-md-4">
 							<br></br>
 							<h2>i nostri <span class="text-primary">partner</span></h2>
-							<p>Fusce vulputate eleifend sapien bulum purus quam, scelerisque ut, mollis vulputate felis eros.</p>
 						</div>
 						<div class="col-md-8">
 							<div class="row logos-wrapper logos-wrapper_hover-style2">
