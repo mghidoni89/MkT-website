@@ -45,7 +45,7 @@
 			<div class="hero-slider_vegas">
 				<div class="container">
 					<div class="row hero-slider__content-inner">
-						<div class="col-md-12 hero-slider__primary-content"><span class="hero-slider__txt hero-slider__txt_lg">MkT COMMUNICATION</span><br><span class="hero-slider__txt hero-slider__txt_lg">WE DO</span><br><span class="hero-slider__txt hero-slider__txt_lg text-primary"><span class="hero-txt-rotating">Web Marketing, Web Sites, SEO, Social Media, Eventi, Brochures, Gadgets</span></span></div>
+						<div class="col-md-12 hero-slider__primary-content"><span class="hero-slider__txt hero-slider__txt_lg">MkT COMMUNICATION</span><br><span class="hero-slider__txt hero-slider__txt_lg">WE DO</span><br><span class="hero-slider__txt hero-slider__txt_lg text-primary"><span class="hero-txt-rotating">Web Marketing, Web Sites, SEO, Social Media, Events, Brochures, Gadgets</span></span></div>
 							</div>
 						</div>
 					</div>
@@ -58,10 +58,9 @@
 					<div class="hgroup">
 					</br>
 					</br>
-						<h1 class="display-3 text-xs-center"><span class="text-primary">marketing</span> per aziende di <span class="text-primary">spedizioni</span>, <span class="text-primary">trasporti</span> e <span class="text-primary">logistica</span></h1>
+						<h1 class="display-3 text-xs-center"><span class="text-primary">Marketing</span> e <span class="text-primary">Comunicazione </span> <br> per aziende di <span class="text-primary">spedizioni</span>, <br> trasporti e <span class="text-primary">logistica</span>.</h1>
 						<div class="row">
 							<div class="col-md-6 offset-md-3">
-								<p class="text-xs-center">La nostra forza è la flessibilità, adattiamo la professionalità ad ogni esigenza dei clienti per soddisfarli in modo completo e definitivo. </p>
 							</div>
 						</div>
 					</div>
@@ -78,6 +77,11 @@
 							<p>Praesent adipiscing. Phasellus ullamcorper ipsum utrum nunc.</p>
 						</div>
 					</div>
+					<div class="row">
+							<div class="col-md-6 offset-md-3">
+								<h2 class="text-xs-center"> Distinguiti, migliora l’<span class="text-primary">immagine</span> aziendale ed estendi il tuo <span class="text-primary">business</span>.  </h2>
+							</div>
+						</div>
 					<div class="mb-3"></div>
 					<div class="icoboxes-card-wrapper icoboxes-card-wrapper__3cols">
 						<div class="icobox icobox_icon-color-primary icobox_type_card icobox_centered icobox_title_accent">
@@ -135,7 +139,7 @@
 			<section class="section section_fullwidth section_color_default">
 				<div class="container">
 					<div class="hgroup">
-						<h1 class="display-3 text-xs-center">come <span class="text-primary">approcciamo</span> un progetto?</h1>
+						<h2 class="display-3 text-xs-center">come <span class="text-primary">approcciamo</span> un progetto?</h2>
 						<div class="row">
 							<div class="col-md-6 offset-md-3">
 								<p>
@@ -145,7 +149,7 @@ A partire dall’analisi del mercato e dagli obiettivi di marketing del cliente 
 
 Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più innovativi – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo gli strumenti più tradizionali, come l’attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. 
 
-MkT Communication: Marketing Made Simple</p>
+MkT Communication: Marketing Made Simple.</p>
 							</div>
 						</div>
 					</div><img class="img-fluid mb-2-5" src="images/progetto.jpg" alt="">
@@ -167,7 +171,7 @@ MkT Communication: Marketing Made Simple</p>
 									<div class="icobox__icon"><i class="fa fa-credit-card"></i></div>
 								</div>
 								<div class="icobox__body">
-									<h5 class="icobox__title">Preventivo</h5>
+									<h5 class="icobox__title">Progetto</h5>
 									<p>Fusce vulputate eleifend sapien. Vestibulum purus uam, scelerisque</p>
 								</div>
 							</div>
