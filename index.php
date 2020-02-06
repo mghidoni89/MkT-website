@@ -70,6 +70,7 @@
 					<div class="row">
 						<div class="col-md-7"><img class="img-fluid" src="images/bambino2.png" alt=""></div>
 						<div class="col-md-4">
+							<br></br>
 					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica agenzia di marketing specializzata nel mondo degli operatori logistici e degli spedizionieri. Parliamo la tua stessa lingua e possiamo così contribuire a far crescere la tua voce. <br></br>  
 					Il servizio è garantito da Nova Systems, società leader nel settore ICT.  
 					Mai come oggi i trasporti, le spedizioni internazionali, la dogana e la logistica sono in continua evoluzione. 
@@ -78,6 +79,7 @@
 					</div>
 					<div class="row">
 							<div class="col-md-6 offset-md-3">
+								<br></br>
 								<h2 class="text-xs-center"> Si aprono nuove <span class="text-primary">opportunità</span>. Sei pronto a <span class="text-primary">raccoglierle</span>? </h2>
 							</div>
 						</div>
@@ -140,11 +142,11 @@
 					<div class="hgroup">
 						<h2 class="display-3 text-xs-center">come <span class="text-primary">approcciamo</span> un progetto?</h2>
 						<div class="row">
-							<div class="col-md-6 offset-md-3">
+							<div class="col-md-8 offset-md-2">
 								<p>
 Crediamo fermamente nell'efficacia della semplicità: la creazione di comunicazioni e contenuti efficaci è articolata, ma la soluzione deve essere appunto semplice, per offrire ai clienti un risultato concreto e immediato.
 
-A partire dall’analisi del mercato e dagli obiettivi di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima visibilità.
+A partire dall’analisi del mercato e dagli obiettivi di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima visibilità. <br></br>
 
 Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più innovativi – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo gli strumenti più tradizionali, come l’attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. 
 
