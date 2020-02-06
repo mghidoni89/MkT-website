@@ -59,6 +59,9 @@
 					</br>
 					</br>
 						<h1 class="display-3 text-xs-center"><span class="text-primary">Marketing</span> e <span class="text-primary">Comunicazione </span> <br> per aziende di <span class="text-primary">spedizioni</span>, <br> trasporti e <span class="text-primary">logistica</span>.</h1>
+
+								<h2 class="text-xs-center"> Distinguiti, <span class="text-primary">migliora</span> l'immagine<br> aziendale ed estendi il tuo <span class="text-primary">business</span>.  </h2>
+
 						<div class="row">
 							<div class="col-md-6 offset-md-3">
 							</div>
@@ -67,19 +70,15 @@
 					<div class="row">
 						<div class="col-md-8"><img class="img-fluid" src="images/scacchi.png" alt=""></div>
 						<div class="col-md-4">
-							<h5 class="title-lead">Marketing</h5>
-							<p class="mb-3">Fusce vulputate eleifend sapien. </p>
-							<h5 class="title-lead">Design</h5>
-							<p class="mb-3">Cras ultricies mi eu turpis hendrerit fringilla. </p>
-							<h5 class="title-lead">Investment</h5>
-							<p>Praesent adipiscing. Phasellus ullamcorper ipsum utrum nunc.</p>
-							<h5 class="title-lead">Promotion</h5>
-							<p>Praesent adipiscing. Phasellus ullamcorper ipsum utrum nunc.</p>
+					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica agenzia di marketing specializzata nel mondo degli operatori logistici e degli spedizionieri. Parliamo la tua stessa lingua e possiamo così contribuire a far crescere la tua voce. <br></br>  
+					Il servizio è garantito da Nova Systems, società leader nel settore ICT.  
+					Mai come oggi i trasporti, le spedizioni internazionali, la dogana e la logistica sono in continua evoluzione. 
+
 						</div>
 					</div>
 					<div class="row">
 							<div class="col-md-6 offset-md-3">
-								<h2 class="text-xs-center"> Distinguiti, migliora l’<span class="text-primary">immagine</span> aziendale ed estendi il tuo <span class="text-primary">business</span>.  </h2>
+								<h2 class="text-xs-center"> Si aprono nuove <span class="text-primary">opportunità</span>. Sei pronto a <span class="text-primary">raccoglierle</span>? </h2>
 							</div>
 						</div>
 					<div class="mb-3"></div>
