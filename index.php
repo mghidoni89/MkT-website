@@ -70,7 +70,6 @@
 					<div class="row">
 						<div class="col-md-7"><img class="img-fluid" src="images/bambino2.png" alt=""></div>
 						<div class="col-md-4">
-							<br></br>
 					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica agenzia di marketing specializzata nel mondo degli operatori logistici e degli spedizionieri. Parliamo la tua stessa lingua e possiamo così contribuire a far crescere la tua voce. <br></br>  
 					Il servizio è garantito da Nova Systems, società leader nel settore ICT.  
 					Mai come oggi i trasporti, le spedizioni internazionali, la dogana e la logistica sono in continua evoluzione. 
@@ -79,7 +78,6 @@
 					</div>
 					<div class="row">
 							<div class="col-md-6 offset-md-3">
-								<br></br>
 								<h2 class="text-xs-center"> Si aprono nuove <span class="text-primary">opportunità</span>. Sei pronto a <span class="text-primary">raccoglierle</span>? </h2>
 							</div>
 						</div>
@@ -142,11 +140,11 @@
 					<div class="hgroup">
 						<h2 class="display-3 text-xs-center">come <span class="text-primary">approcciamo</span> un progetto?</h2>
 						<div class="row">
-							<div class="col-md-8 offset-md-2">
+							<div class="col-md-6 offset-md-3">
 								<p>
 Crediamo fermamente nell'efficacia della semplicità: la creazione di comunicazioni e contenuti efficaci è articolata, ma la soluzione deve essere appunto semplice, per offrire ai clienti un risultato concreto e immediato.
 
-A partire dall’analisi del mercato e dagli obiettivi di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima visibilità. <br></br>
+A partire dall’analisi del mercato e dagli obiettivi di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima visibilità.
 
 Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più innovativi – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo gli strumenti più tradizionali, come l’attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. 
 
@@ -215,31 +213,61 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 								<div class="accordion_style_default" id="accordion-default" role="tablist" aria-multiselectable="true">
 									<div class="panel panel-default">
-										<div class="panel-heading" role="tab" id="heading-defaultPraesentadipiscingPhasellusullamcorerrutrum">
-											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefaultPraesentadipiscingPhasellusullamcorerrutrum" aria-expanded="false" aria-controls="collapsedefaultPraesentadipiscingPhasellusullamcorerrutrum">Analisi</a>
+										<div class="panel-heading" role="tab" id="heading-default1">
+											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefault1" aria-expanded="false" aria-controls="collapsedefault1">Marketing Manager</a>
 											</h4>
 										</div>
-										<div class="panel-collapse collapse" id="collapsedefaultPraesentadipiscingPhasellusullamcorerrutrum" role="tabpanel" aria-labelledby="heading-defaultPraesentadipiscingPhasellusullamcorerrutrum">
+										<div class="panel-collapse collapse" id="collapsedefault1" role="tabpanel" aria-labelledby="heading-default1">
 											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
 											</div>
 										</div>
 									</div>
 									<div class="panel panel-default">
-										<div class="panel-heading" role="tab" id="heading-defaultMaecenasmalesuadaPraesentcongueeratat">
-											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefaultMaecenasmalesuadaPraesentcongueeratat" aria-expanded="false" aria-controls="collapsedefaultMaecenasmalesuadaPraesentcongueeratat">Design</a>
+										<div class="panel-heading" role="tab" id="heading-default2">
+											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefault2" aria-expanded="false" aria-controls="collapsedefault2">Press Officer & Copywriter</a>
 											</h4>
 										</div>
-										<div class="panel-collapse collapse" id="collapsedefaultMaecenasmalesuadaPraesentcongueeratat" role="tabpanel" aria-labelledby="heading-defaultMaecenasmalesuadaPraesentcongueeratat">
+										<div class="panel-collapse collapse" id="collapsedefault2" role="tabpanel" aria-labelledby="heading-default2">
+											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="heading-default3">
+											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefault3" aria-expanded="false" aria-controls="collapsedefault3">Web Project Administrator</a>
+											</h4>
+										</div>
+										<div class="panel-collapse collapse" id="collapsedefault3" role="tabpanel" aria-labelledby="heading-default3">
+											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="heading-default4">
+											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefault4" aria-expanded="false" aria-controls="collapsedefault4">SEO & Digital Strategist</a>
+											</h4>
+										</div>
+										<div class="panel-collapse collapse" id="collapsedefault4" role="tabpanel" aria-labelledby="heading-default4">
+											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading" role="tab" id="heading-default5">
+											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefault5" aria-expanded="false" aria-controls="collapsedefault5">Graphic Designer</a>
+											</h4>
+										</div>
+										<div class="panel-collapse collapse" id="collapsedefault5" role="tabpanel" aria-labelledby="heading-default5">
 											<div class="panel-body">Sviluppiamo soluzioni uniche per rispondere alle esigenze specifiche di ogni singolo cliente.
 											</div>
 										</div>
 									</div>
 									<div class="panel panel-default">
-										<div class="panel-heading" role="tab" id="heading-defaultVestibulumanteipsumprimisinfaucibus">
-											<h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefaultVestibulumanteipsumprimisinfaucibus" aria-expanded="true" aria-controls="collapsedefaultVestibulumanteipsumprimisinfaucibus">Sviluppo</a>
+										<div class="panel-heading" role="tab" id="heading-default6">
+											<h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion-default" href="#collapsedefault6" aria-expanded="true" aria-controls="collapsedefault6">Business Developer</a>
 											</h4>
 										</div>
-										<div class="panel-collapse collapse in" id="collapsedefaultVestibulumanteipsumprimisinfaucibus" role="tabpanel" aria-labelledby="heading-defaultVestibulumanteipsumprimisinfaucibus">
+										<div class="panel-collapse collapse" id="collapsedefault6" role="tabpanel" aria-labelledby="heading-default6">
 											<div class="panel-body">Grazie alle nostre competenze di programmazione siamo in grado di sviluppare siti web rapidi e performanti.
 											</div>
 										</div>
