@@ -160,7 +160,7 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 								<div class="icobox__body">
 									<h5 class="icobox__title">La tua idea</h5>
-									<p>Fusce vulputate eleifend sapien. Vestibulum purus uam, scelerisque</p>
+									<p>Ti aiutiamo a focalizzarti sui tuoi obiettivi, facendo diventare la tua idea un caso di successo.</p>
 								</div>
 							</div>
 						</div>
@@ -171,7 +171,7 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 								<div class="icobox__body">
 									<h5 class="icobox__title">Progetto</h5>
-									<p>Fusce vulputate eleifend sapien. Vestibulum purus uam, scelerisque</p>
+									<p>Realizziamo un progetto di comunicazione e marketing su misura rispetto alle tue esigenze.</p>
 								</div>
 							</div>
 						</div>
@@ -182,7 +182,7 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 								<div class="icobox__body">
 									<h5 class="icobox__title">Sviluppo</h5>
-									<p>Fusce vulputate eleifend sapien. Vestibulum purus uam, scelerisque</p>
+									<p>Sviluppiamo una strategia coordinata con tutti gli strumenti necessari a realizzare i tuoi obiettivi.</p>
 								</div>
 							</div>
 						</div>
@@ -193,7 +193,7 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 								<div class="icobox__body">
 									<h5 class="icobox__title">Risultati</h5>
-									<p>Fusce vulputate eleifend sapien. Vestibulum purus uam, scelerisque</p>
+									<p>Monitoriamo i risultati del lavoro svolto per raccogliere e sfruttrare ogni nuova opportunità.</p>
 								</div>
 							</div>
 						</div>
@@ -218,7 +218,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault1" role="tabpanel" aria-labelledby="heading-default1">
-											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
+											<div class="panel-body">Coordina le attività del team, assicurandosi di portare a compimento ogni progetto, anche il più complesso.
 											</div>
 										</div>
 									</div>
@@ -228,8 +228,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault2" role="tabpanel" aria-labelledby="heading-default2">
-											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
-											</div>
+											<div class="panel-body">È un cultore della parola, capace di determinare il profilo pubblico della tua azienda e di portarla al successo.</div>
 										</div>
 									</div>
 									<div class="panel panel-default">
@@ -238,7 +237,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault3" role="tabpanel" aria-labelledby="heading-default3">
-											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
+											<div class="panel-body"> Questo guru del mondo digitale conosce più a fondo di chiunque altro le tecniche per creare un sito web performante e bello.
 											</div>
 										</div>
 									</div>
@@ -248,7 +247,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault4" role="tabpanel" aria-labelledby="heading-default4">
-											<div class="panel-body">Svogliamo ricerche di mercato, analizziamo la concorrenza e individuiamo le esigenze dei consumatori.
+											<div class="panel-body">Nel mare magnum del mondo digitale traccia una rotta per portare la tua azienda al porto sicuro della notorietà 
 											</div>
 										</div>
 									</div>
@@ -258,7 +257,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault5" role="tabpanel" aria-labelledby="heading-default5">
-											<div class="panel-body">Sviluppiamo soluzioni uniche per rispondere alle esigenze specifiche di ogni singolo cliente.
+											<div class="panel-body"> Chi si muove in perenne equilibrio tra il mondo della tecnica e quello dell'arte? Il grafico.
 											</div>
 										</div>
 									</div>
@@ -268,7 +267,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault6" role="tabpanel" aria-labelledby="heading-default6">
-											<div class="panel-body">Grazie alle nostre competenze di programmazione siamo in grado di sviluppare siti web rapidi e performanti.
+											<div class="panel-body">Nessuno più di lui sa come comunicare i punti di forza della tua azienda e far crescere il tuo brand.
 											</div>
 										</div>
 									</div>
@@ -339,16 +338,16 @@ MkT Communication: Marketing Made Simple.</p>
 						<div class="col-md-8">
 							<div class="row logos-wrapper logos-wrapper_hover-style2">
 								<div class="col-md-3">
-									<div class="logo-box"><a href="#"><img src="images/client-logo1.png"></a></div>
+									<div class="logo-box"><a href="#"><img src="images/google-ads.png"></a></div>
 								</div>
 								<div class="col-md-3">
-									<div class="logo-box"><a href="#"><img src="images/client-logo2.png"></a></div>
+									<div class="logo-box"><a href="#"><img src="images/Analytics.png"></a></div>
 								</div>
 								<div class="col-md-3">
-									<div class="logo-box"><a href="#"><img src="images/client-logo3.png"></a></div>
+									<div class="logo-box"><a href="#"><img src="images/mail up.png"></a></div>
 								</div>
 								<div class="col-md-3">
-									<div class="logo-box"><a href="#"><img src="images/client-logo4.png"></a></div>
+									<div class="logo-box"><a href="#"><img src="images/seozoom.png"></a></div>
 								</div>
 							</div>
 						</div>
@@ -361,34 +360,34 @@ MkT Communication: Marketing Made Simple.</p>
 					<div class="row">
 						<div class="col-xs-6 col-md-3">
 							<div class="counter counter_color_white counter_layout_left">
-								<div class="counter__icon"><i class="fa fa-thumbs-up"></i></div>
-								<div class="counter__wrap"><span class="counter__num" data-to="182" data-speed="1500" data-refresh-interval="50">0</span>
-									<div class="counter__info">clienti</div>
+								<div class="counter__icon"><i class="fa fa-user"></i></div>
+								<div class="counter__wrap"><span class="counter__num" data-to="7" data-speed="1500" data-refresh-interval="50">0</span>
+									<div class="counter__info">professionisti</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-xs-6 col-md-3">
 							<div class="counter counter_color_white counter_layout_left">
 								<div class="counter__icon"><i class="fa fa-suitcase"></i></div>
-								<div class="counter__wrap"><span class="counter__num" data-to="465" data-speed="1500" data-refresh-interval="50">0</span>
-									<div class="counter__info">progetti</div>
+								<div class="counter__wrap"><span class="counter__num" data-to="11760" data-speed="1500" data-refresh-interval="50">0</span>
+									<div class="counter__info">ore di lavoro</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-xs-6 col-md-3">
 							<div class="counter counter_color_white counter_layout_left">
-								<div class="counter__icon"><i class="fa fa-user"></i></div>
-								<div class="counter__wrap"><span class="counter__num" data-to="12" data-speed="1500" data-refresh-interval="50">0</span>
-									<div class="counter__info">team</div>
+								<div class="counter__icon"><i class="fa fa-thumbs-up"></i></div>
+								<div class="counter__wrap"><span class="counter__num" data-to="1470" data-speed="1500" data-refresh-interval="50">0</span>
+									<div class="counter__info">problemi risolti</div>
 								</div>
 							</div>
 						</div>
 
 						<div class="col-xs-6 col-md-3">
 							<div class="counter counter_color_white counter_layout_left">
-								<div class="counter__icon"><i class="fa fa-support"></i></div>
-								<div class="counter__wrap"><span class="counter__num" data-to="2142" data-speed="1500" data-refresh-interval="50">0</span>
-									<div class="counter__info">ore assistenza</div>
+								<div class="counter__icon"><i class="fa fa-coffee"></i></div>
+								<div class="counter__wrap"><span class="counter__num" data-to="3280" data-speed="1500" data-refresh-interval="50">0</span>
+									<div class="counter__info">drinked coffee</div>
 								</div>
 							</div>
 						</div>
