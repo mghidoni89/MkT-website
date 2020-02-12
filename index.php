@@ -70,9 +70,9 @@
 					<div class="row">
 						<div class="col-md-7"><img class="img-fluid" src="images/bambino2.png" alt=""></div>
 						<div class="col-md-4">
-					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica <strong>agenzia di marketing</strong> specializzata nel mondo degli <strong>operatori logistici</strong> e degli <strong>spedizionieri</strong>. Parliamo la tua stessa lingua e possiamo così contribuire a far <strong>crescere</strong> la tua voce. <br></br>  
+					<h3 class>Altre imprese lo stanno già facendo con noi.</h3><p> MKT Communication è l’unica <strong>agenzia di marketing</strong> specializzata nel mondo degli <strong>operatori logistici</strong> e degli <strong>spedizionieri</strong>. Parliamo la tua stessa lingua e possiamo così contribuire a far <strong>crescere</strong> la tua voce. <br></br>  
 					Il servizio è garantito da <strong>Nova Systems</strong>, società leader nel settore ICT.  
-					Mai come oggi i <strong>trasporti</strong>, le <strong>spedizioni internazionali</strong>, la <strong>dogana</strong> e la <strong>logistica</strong> sono in continua evoluzione. 
+					Mai come oggi i <strong>trasporti</strong>, le <strong>spedizioni internazionali</strong>, la <strong>dogana</strong> e la <strong>logistica</strong> sono in continua evoluzione. </p>
 
 						</div>
 					</div>
@@ -146,9 +146,7 @@ Crediamo fermamente nell'efficacia della <strong>semplicità</strong>: la creazi
 
 A partire dall’analisi del <strong>mercato</strong> e dagli <strong>obiettivi</strong> di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima <strong>visibilità</strong>.
 
-Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <strong>innovativi</strong> – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo gli strumenti più <strong>tradizionali</strong>, come l’attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. 
-
-<i>MkT Communication: Marketing Made Simple.</i></p>
+Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <strong>innovativi</strong> – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo le attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. </p>
 							</div>
 						</div>
 					</div><img class="img-fluid mb-2-5" src="images/progetto.jpg" alt="">
@@ -159,7 +157,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 									<div class="icobox__icon"><i class="fa fa-lightbulb-o"></i></div>
 								</div>
 								<div class="icobox__body">
-									<h5 class="icobox__title">La tua idea</h5>
+									<h3 class="icobox__title">La tua idea</h3>
 									<p>Ti aiutiamo a focalizzarti sui tuoi obiettivi, facendo diventare la tua idea un caso di successo.</p>
 								</div>
 							</div>
@@ -170,7 +168,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 									<div class="icobox__icon"><i class="fa fa-credit-card"></i></div>
 								</div>
 								<div class="icobox__body">
-									<h5 class="icobox__title">Progetto</h5>
+									<h3 class="icobox__title">Progetto</h3>
 									<p>Realizziamo un progetto di comunicazione e marketing su misura rispetto alle tue esigenze.</p>
 								</div>
 							</div>
@@ -181,7 +179,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 									<div class="icobox__icon"><i class="fa fa-cogs"></i></div>
 								</div>
 								<div class="icobox__body">
-									<h5 class="icobox__title">Sviluppo</h5>
+									<h3 class="icobox__title">Sviluppo</h3>
 									<p>Sviluppiamo una strategia coordinata con tutti gli strumenti necessari a realizzare i tuoi obiettivi.</p>
 								</div>
 							</div>
@@ -192,7 +190,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 									<div class="icobox__icon"><i class="fa fa-support"></i></div>
 								</div>
 								<div class="icobox__body">
-									<h5 class="icobox__title">Risultati</h5>
+									<h3 class="icobox__title">Risultati</h3>
 									<p>Monitoriamo i risultati del lavoro svolto per raccogliere e sfruttare ogni nuova opportunità.</p>
 								</div>
 							</div>
