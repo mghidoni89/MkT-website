@@ -206,7 +206,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 								<div class="hgroup hgroup_sm">
 									<h1 class="display-3">la nostra <span class="text-primary">agenzia</span></h1>
 									<p>MkT Communication è un'agenzia di comunicazione integrata, in cui creatività e innovazione rappresentano le linee guida di ogni progetto e si coniugano con l’efficacia dei mezzi più tradizionali. La nostra forza è la flessibilità, adattiamo la professionalità ad ogni esigenza dei clienti per soddisfarli in modo completo e definitivo. 
-									Per questo pianifichiamo strategie e individuiamo gli strumenti più adatti per garantire la massima competitività ai nostri clienti
+									Per questo pianifichiamo strategie e individuiamo gli strumenti più adatti per garantire la massima competitività ai nostri clienti.
 									Affrontiamo con curiosità e passione ogni nuova sfida, con un team preparato e dotato di tutte le competenze necessarie per trovare soluzioni a 360 gradi, per ogni situazione.</p>
 								</div>
 								<div class="accordion_style_default" id="accordion-default" role="tablist" aria-multiselectable="true">
@@ -285,7 +285,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 								<div class="row">
 									<div class="col-sm-10 offset-sm-1">
 										<div class="testimonial-container">
-											<div class="testimonial-text"><h5><i>La linea di separazione tra disordine e ordine si trova nella logistica</i></h5></div>
+											<div class="testimonial-text"><h3><i>La linea di separazione tra disordine e ordine si trova nella logistica</i></h3></div>
 											<figure class="figure-author"><img src="images/Sun Tzu.jpg"/>
 												<h5> Sun Tzu</h5>
 												<figcaption>Stratega &amp; Filosofo</figcaption>
@@ -359,7 +359,7 @@ Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <s
 						<div class="col-xs-6 col-md-3">
 							<div class="counter counter_color_white counter_layout_left">
 								<div class="counter__icon"><i class="fa fa-user"></i></div>
-								<div class="counter__wrap"><span class="counter__num" data-to="7" data-speed="1500" data-refresh-interval="50">0</span>
+								<div class="counter__wrap"><span class="counter__num" data-to="8" data-speed="1500" data-refresh-interval="50">0</span>
 									<div class="counter__info">professionisti</div>
 								</div>
 							</div>
