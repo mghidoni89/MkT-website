@@ -70,9 +70,9 @@
 					<div class="row">
 						<div class="col-md-7"><img class="img-fluid" src="images/bambino2.png" alt=""></div>
 						<div class="col-md-4">
-					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica agenzia di marketing specializzata nel mondo degli operatori logistici e degli spedizionieri. Parliamo la tua stessa lingua e possiamo così contribuire a far crescere la tua voce. <br></br>  
-					Il servizio è garantito da Nova Systems, società leader nel settore ICT.  
-					Mai come oggi i trasporti, le spedizioni internazionali, la dogana e la logistica sono in continua evoluzione. 
+					<h5 class>Altre imprese lo stanno già facendo con noi.</h5> MKT Communication è l’unica <strong>agenzia di marketing</strong> specializzata nel mondo degli <strong>operatori logistici</strong> e degli <strong>spedizionieri</strong>. Parliamo la tua stessa lingua e possiamo così contribuire a far <strong>crescere</strong> la tua voce. <br></br>  
+					Il servizio è garantito da <strong>Nova Systems</strong>, società leader nel settore ICT.  
+					Mai come oggi i <strong>trasporti</strong>, le <strong>spedizioni internazionali</strong>, la <strong>dogana</strong> e la <strong>logistica</strong> sono in continua evoluzione. 
 
 						</div>
 					</div>
@@ -140,15 +140,15 @@
 					<div class="hgroup">
 						<h2 class="display-3 text-xs-center">come <span class="text-primary">approcciamo</span> un progetto?</h2>
 						<div class="row">
-							<div class="col-md-6 offset-md-3">
+							<div class="col-md-8 offset-md-2">
 								<p>
-Crediamo fermamente nell'efficacia della semplicità: la creazione di comunicazioni e contenuti efficaci è articolata, ma la soluzione deve essere appunto semplice, per offrire ai clienti un risultato concreto e immediato.
+Crediamo fermamente nell'efficacia della <strong>semplicità</strong>: la creazione di comunicazioni e contenuti efficaci è articolata, ma la soluzione deve essere appunto semplice, per offrire ai clienti un <strong>risultato</strong> concreto e immediato.
 
-A partire dall’analisi del mercato e dagli obiettivi di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima visibilità.
+A partire dall’analisi del <strong>mercato</strong> e dagli <strong>obiettivi</strong> di marketing del cliente realizziamo piani di comunicazione personalizzati e orientati al raggiungimento dei risultati e della massima <strong>visibilità</strong>.
 
-Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più innovativi – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo gli strumenti più tradizionali, come l’attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. 
+Gli strumenti di comunicazione che utilizziamo sono molteplici. Ai mezzi più <strong>innovativi</strong> – SEO, creazione landing page e siti internet, campagne Adwords e remarketing, social media marketing – affianchiamo gli strumenti più <strong>tradizionali</strong>, come l’attività di ufficio stampa, l’organizzazione di eventi, la creazione di materiale grafico. 
 
-MkT Communication: Marketing Made Simple.</p>
+<i>MkT Communication: Marketing Made Simple.</i></p>
 							</div>
 						</div>
 					</div><img class="img-fluid mb-2-5" src="images/progetto.jpg" alt="">
@@ -193,7 +193,7 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 								<div class="icobox__body">
 									<h5 class="icobox__title">Risultati</h5>
-									<p>Monitoriamo i risultati del lavoro svolto per raccogliere e sfruttrare ogni nuova opportunità.</p>
+									<p>Monitoriamo i risultati del lavoro svolto per raccogliere e sfruttare ogni nuova opportunità.</p>
 								</div>
 							</div>
 						</div>
@@ -247,7 +247,7 @@ MkT Communication: Marketing Made Simple.</p>
 											</h4>
 										</div>
 										<div class="panel-collapse collapse" id="collapsedefault4" role="tabpanel" aria-labelledby="heading-default4">
-											<div class="panel-body">Nel mare magnum del mondo digitale traccia una rotta per portare la tua azienda al porto sicuro della notorietà 
+											<div class="panel-body">Nel mare magnum del mondo digitale traccia una rotta per portare la tua azienda al porto sicuro della notorietà. 
 											</div>
 										</div>
 									</div>
@@ -274,7 +274,7 @@ MkT Communication: Marketing Made Simple.</p>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-6"><img class="img-fluid" src="images/armel.png" alt=""></div>
+						<div class="col-md-6"><img class="img-fluid" style="padding-top: 100px;" src="images/armel.png" alt=""></div>
 					</div>
 				</div>
 			</section>
@@ -287,10 +287,10 @@ MkT Communication: Marketing Made Simple.</p>
 								<div class="row">
 									<div class="col-sm-10 offset-sm-1">
 										<div class="testimonial-container">
-											<div class="testimonial-text">Quisque libero metus, condimentum nec, tempor a, commodo mollis, magna. Vestibulum ullamcorper mauris at ligula. Fusce fermentum. Nullam cursus lacinia erat. Praesent blandit laoreet nibh. Fusce convallis metus id felis luctus adipiscing. Pellentesque egestas, neque sit amet convallis pulvinar.</div>
-											<figure class="figure-author"><img src="images/testimonial-img1.png"/>
-												<h5>Bruce Almighty</h5>
-												<figcaption>SEO &amp; Manager</figcaption>
+											<div class="testimonial-text"><h5><i>La linea di separazione tra disordine e ordine si trova nella logistica</i></h5></div>
+											<figure class="figure-author"><img src="images/Sun Tzu.jpg"/>
+												<h5> Sun Tzu</h5>
+												<figcaption>Stratega &amp; Filosofo</figcaption>
 											</figure>
 										</div>
 									</div>
@@ -344,7 +344,7 @@ MkT Communication: Marketing Made Simple.</p>
 									<div class="logo-box"><a href="#"><img src="images/Analytics.png"></a></div>
 								</div>
 								<div class="col-md-3">
-									<div class="logo-box"><a href="#"><img src="images/mail up.png"></a></div>
+									<div class="logo-box"><a href="#"><img src="images/mail up2.png"></a></div>
 								</div>
 								<div class="col-md-3">
 									<div class="logo-box"><a href="#"><img src="images/seozoom.png"></a></div>
