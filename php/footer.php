@@ -4,10 +4,7 @@
 				<div class="row ">
 					<div class="col-md-4 col-sm-6">
 						<img src="images/logo.png" alt="MkT communication" data-retina="true" id="logo_footer">
-						<p>La nostra puntualità è garantita da contratto.
-
-	Siamo i soli sul mercato che ti garantiscono il rispetto dei tempi indicati nel preventivo.
-	</br>Come? </br>Ci mettiamo la firma! Se il tuo progetto non è pronto entro il termine stabilito, ti restituiamo subito l’acconto!</p>
+						<p></p>
 					</div>
 					<div class="col-md-4 col-md-offset-1 col-sm-3">
 						<h3>Contattaci</h3>
